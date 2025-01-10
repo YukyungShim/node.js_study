@@ -1,0 +1,2 @@
+$ netstart -ano | findstr 포트
+$ taskkill /pid 프로세스아이디 /f

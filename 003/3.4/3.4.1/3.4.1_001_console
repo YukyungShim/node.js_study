@@ -1,0 +1,77 @@
+(project_django) C:\Users\yukyu\OneDrive\Desktop\0. GIS 관제 프로젝 트\공부자료_Node.js\Node.js_study\003\3.4\3.4.1>node
+Welcome to Node.js v22.11.0.
+Type ".help" for more information.
+> global
+<ref *1> Object [global] {
+  global: [Circular *1],
+  clearImmediate: [Function: clearImmediate],
+  setImmediate: [Function: setImmediate] {
+    [Symbol(nodejs.util.promisify.custom)]: [Getter]
+  },
+  clearInterval: [Function: clearInterval],
+  clearTimeout: [Function: clearTimeout],
+  setInterval: [Function: setInterval],
+  setTimeout: [Function: setTimeout] {
+    [Symbol(nodejs.util.promisify.custom)]: [Getter]
+  },
+  queueMicrotask: [Function: queueMicrotask],
+  structuredClone: [Function: structuredClone],
+  atob: [Getter/Setter],
+  btoa: [Getter/Setter],
+  performance: [Getter/Setter],
+  fetch: [Function: fetch],
+  navigator: [Getter],
+  crypto: [Getter]
+}
+> globalThis
+<ref *1> Object [global] {
+  global: [Circular *1],
+  clearImmediate: [Function: clearImmediate],
+  setImmediate: [Function: setImmediate] {
+    [Symbol(nodejs.util.promisify.custom)]: [Getter]
+  },
+  clearInterval: [Function: clearInterval],
+  clearTimeout: [Function: clearTimeout],
+  setInterval: [Function: setInterval],
+  setTimeout: [Function: setTimeout] {
+    [Symbol(nodejs.util.promisify.custom)]: [Getter]
+  },
+  queueMicrotask: [Function: queueMicrotask],
+  structuredClone: [Function: structuredClone],
+  atob: [Getter/Setter],
+  btoa: [Getter/Setter],
+  performance: [Getter/Setter],
+  fetch: [Function: fetch],
+  navigator: [Getter],
+  crypto: [Getter]
+}
+> globalThis === global
+true
+> global.console
+Object [console] {
+  log: [Function: log],
+  warn: [Function: warn],
+  dir: [Function: dir],
+  time: [Function: time],
+  timeEnd: [Function: timeEnd],
+  timeLog: [Function: timeLog],
+  trace: [Function: trace],
+  assert: [Function: assert],
+  clear: [Function: clear],
+  count: [Function: count],
+  countReset: [Function: countReset],
+  group: [Function: group],
+  groupEnd: [Function: groupEnd],
+  table: [Function: table],
+  debug: [Function: debug],
+  info: [Function: info],
+  dirxml: [Function: dirxml],
+  error: [Function: error],
+  groupCollapsed: [Function: groupCollapsed],
+  Console: [Function: Console],
+  profile: [Function: profile],
+  profileEnd: [Function: profileEnd],
+  timeStamp: [Function: timeStamp],
+  context: [Function: context],
+  createTask: [Function: createTask]
+}

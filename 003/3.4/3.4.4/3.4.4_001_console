@@ -1,0 +1,19 @@
+(project_django) C:\Users\yukyu\OneDrive\Desktop\0. GIS 관제 프로젝 트\공부자료_Node.js\Node.js_study\003\3.4\3.4.4>node
+Welcome to Node.js v22.11.0.
+Type ".help" for more information.
+> process.version
+'v22.11.0'
+> process.arch
+'x64'
+> process.platform
+'win32'
+> process.pid
+53408
+> process.uptime()
+32.2342788
+> process.execPath
+'C:\\Program Files\\nodejs\\node.exe'
+> process.cwd()
+'C:\\Users\\yukyu\\OneDrive\\Desktop\\0. GIS 관제 프로젝트\\공부자료_Node.js\\Node.js_study\\003\\3.4\\3.4.4'
+> process.cpuUsage()
+{ user: 312000, system: 515000 }
