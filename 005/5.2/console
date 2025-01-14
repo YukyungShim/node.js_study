@@ -1,0 +1,48 @@
+$ npm init
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help json` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+package name: (폴더명) [프로젝트 이름 입력]
+version: (1.0.0) [프로젝트 버전 입력]
+description: [프로젝트 설명 입력]
+entry point: (index.js)
+test command: [엔터 키 클릭]
+git repository: [엔터 키 클릭]
+keywords: [엔터 키 클릭]
+author: [여러분의 이름 입력]
+license: (ISC) [엔터 키 클릭]
+About to write to C:\Users\zerocho\npmtest\package.json:
+
+{
+  "name": "npmtest",
+  "version": "0.0.1",
+  "description": "hello package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ZeroCho",
+  "license": "ISC"
+}
+
+Is this ok? (yes) yes
+
+
+
+
+
+
+
+// $ npm run test
+// echo \"Error: no test specified\" && exit 1
+
+
+
+$ npm install express
